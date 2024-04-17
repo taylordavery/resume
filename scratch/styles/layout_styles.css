@@ -58,7 +58,7 @@ body {
     color: #ffffff;
     text-align: center;
     padding-top: 15px;
-    position: relative;
+    position: fixed;
 }
 
 .subheader {
