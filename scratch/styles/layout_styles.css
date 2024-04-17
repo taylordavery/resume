@@ -28,6 +28,10 @@ body {
     border-right: solid 1px #555555;
 }
 
+.tableauPlaceholder {
+    left: 5px
+}
+
 .rightmenu {
     top: 114px;
     right: 5px;
@@ -54,7 +58,7 @@ body {
     color: #ffffff;
     text-align: center;
     padding-top: 15px;
-    position: fixed;
+    position: relative;
 }
 
 .subheader {
